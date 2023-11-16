@@ -1,6 +1,6 @@
 # Employees Program
 
-My final exam for Fundamentals of Programming completed **17/0/2021**:
+My final exam for Fundamentals of Programming completed **17/01/2021**:
 
 EWSS [100 marks]
 
